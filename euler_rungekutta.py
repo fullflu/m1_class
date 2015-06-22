@@ -4,7 +4,7 @@ import numpy as np
 from math import *
 import matplotlib.pyplot as plt
 
-#l1 and l3 is the answers (both two-dimensional array) of the report
+#l1 and l3 is the answers (both two-dimensional arrays) of the report
 
 def dy(y,x):
     #an equation to solve
