@@ -6,7 +6,7 @@ import numpy as np
 from math import *
 import matplotlib.pyplot as plt
 
-#l1 and l3 are the answers (both two-dimensional arrays) of the quastion
+#l1 and l3 are the answers (both two-dimensional arrays) of the question
 
 
 def dy(y,x):
