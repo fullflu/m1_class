@@ -39,9 +39,10 @@ def fz(y,x,d):
     return (y+d*(k1+2*k2+2*k3+k4)/6)
 
 
+#change these numbers as you like, but you have to keep such a relationship as ---> (split-1)*delta=3
 split=16#number of delta x
-delta=0.2
-#好きな数に変えてください．ただし，(split-1)*delta=3になるように．delta<1が望ましい
+delta=0.2#
+
 
 
 l1=np.empty((split,3))
